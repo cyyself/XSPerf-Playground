@@ -10,3 +10,4 @@ Using VSCode to open `src/playground.ipynb` and modify the paths to ELF file and
 
 - Source Code Mapping from basic blocks to source lines and columns
 - Group Basic Blocks by program structure
+- Weighted analysis based on SimPoint weights
